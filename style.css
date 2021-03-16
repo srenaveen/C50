@@ -1,0 +1,19 @@
+.header{
+    color: indigo;
+}
+.games{
+    border: solid;
+    border-color: indigo;
+}
+.MGH{
+    background-color: brown;
+    color: yellow;
+}
+.Trex{
+    background-color: grey;
+    color: white;
+}
+.rocket{
+    background-color:blue;
+    color: skyblue;
+}
